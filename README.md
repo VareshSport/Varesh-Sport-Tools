@@ -12,3 +12,6 @@ Example:
 ```
 vsw.sh "YOUR/SOURCE/PATH" "THE/PATH/OF/YOUR/WATERMARK.png" "YOUR/DESTINATION/PATH"
 ```
+
+## Important Note
+ImageMagick is required to process images.
