@@ -9,4 +9,6 @@ Second argument: The PNG image's path.
 Third argument: Destination DIR.
 
 Example:
-```vsw.sh "YOUR/SOURCE/PATH" "THE/PATH/OF/YOUR/WATERMARK.png" "YOUR/DESTINATION/PATH"
+```
+vsw.sh "YOUR/SOURCE/PATH" "THE/PATH/OF/YOUR/WATERMARK.png" "YOUR/DESTINATION/PATH"
+```
