@@ -13,5 +13,8 @@ Example:
 vsw.sh "YOUR/SOURCE/PATH" "THE/PATH/OF/YOUR/WATERMARK.png" "YOUR/DESTINATION/PATH"
 ```
 
+## What vswhd.sh do?
+It's same as vsw.sh but it crop all images to 1920x1080.
+
 ## Important Note
 ImageMagick is required to process images.
